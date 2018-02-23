@@ -1,22 +1,6 @@
 # Plaid
 
-*Design news and inspiration.*
-
-Plaid is a showcase of [material design](https://www.google.com/design/spec/) that we hope you will
-keep installed. It pulls in news & inspiration from [Designer News](https://www.designernews.co/),
-[Dribbble](https://dribbble.com/) & [Product Hunt](https://www.producthunt.com/). It demonstrates
-the use of
-[material principles](https://www.google.com/design/spec/material-design/introduction.html#introduction-principles)
-to create tactile, bold, understandable UIs.
-
-**[Install on Google Play (Beta Testing)](https://play.google.com/apps/testing/io.plaidapp)**
-
-
-##### Non-Goals
-Plaid is a UI sample and seeks to demonstrate how to implement material design. To make this as clear as possible it explicitly does not attempt to:
-* Provide opinionated **architecture/testing** advice; it utilizes vanilla Android components. For advice on this, I'd recommend [Blueprints](https://github.com/googlesamples/android-architecture).
-* Support **pre-Lollipop** devices. Doing so is entirely possible, but complicates things. For advice on doing this, see [this fork](https://github.com/hzsweers/plaid/tree/z/moarbackport).
-
+A copy of https://github.com/nickbutcher/plaid
 
 ### License
 
